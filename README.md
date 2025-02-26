@@ -54,14 +54,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokariyaprit&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokariyaprit&theme=radical" alt="GitHub Streak" height="180px"/>
-</p>
-
----
-
 ## 🚀 **Let's Connect**
 💬 Ask me about **JavaScript, React.js, TypeScript, or Node.js!**  
 📫 Reach me at **mokariyaprit2086@gmail.com**  
