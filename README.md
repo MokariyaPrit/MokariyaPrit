@@ -1,7 +1,5 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://your-image-url.com" alt="Banner" width="100%" />
-</p>
+
 
 <!-- Title -->
 <h1 align="center">Hi there, I'm Mokariya Prit! 👋</h1>
