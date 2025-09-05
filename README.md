@@ -44,7 +44,7 @@
 ### 🔥 [Portfolio](https://github.com/mokariyaprit/portfolio)
 > 🚀 A sleek, modern portfolio built with **React.js, TypeScript, and Material UI**  
 > 🎨 **Tech Used:** React.js, TypeScript, MUI  
-> 🌐 **Live Demo:** [mokariyaprit.github.io/Portfolio](https://mokariyaprit.github.io/Portfolio)
+> 🌐 **Live Demo:** [https://portfolio-vercel-azure.vercel.app/)
 
 ### 📈 [Stock Market Simulator](https://github.com/mokariyaprit/stock-market-simulator)
 > 📊 A **Stock Market Simulator** with a signup system and transaction tracking  
